@@ -1,4 +1,3 @@
-
 # Rice Leaf Disease Classification Using CNN
 
 ## Project Overview
